@@ -1,0 +1,1 @@
+echo "Creo una segunda linea en archivo_b.txt" >>archivo_b.txt

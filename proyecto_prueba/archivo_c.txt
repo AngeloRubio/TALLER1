@@ -1,0 +1,1 @@
+echo "Creo una primera linea en archivo_c.txt" >>archivo_c.txt
